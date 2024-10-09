@@ -1,0 +1,15 @@
+## Interface: 40000
+## Title: AutoInvite by Martag
+## Author: Martag of Greymane
+## Version: 2.3.5
+## Notes: Auto Addon which enables the ability to automatically invite for groups / raids.
+## URL: http://www.wowinterface.com/
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: AutoInvite_Config
+AutoInvite.lua
+AutoInviteForm.xml
+AIQueueListForm.xml
+AIBlackList.lua
+AIPromoteWin.lua
+AIPromoteWin.xml
